@@ -1,6 +1,6 @@
 {
-  "name": "easy-livereload",
-  "description": "Express middleware to use livereload2 easily (both server and client)",
+  "name": "@flemist/easy-livereload",
+  "description": "Express middleware to use livereload2 easily (both server and client). With recursive watch",
   "version": "1.4.3",
   "author": "Daishi Kato <daishi@axlight.com>",
   "dependencies": {
